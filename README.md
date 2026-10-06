@@ -1,28 +1,26 @@
-# Resenha Tecnológica
+# Resenha — Inteligência Artificial na Tech Week
 
-## Tema
-Além do código: o futuro do desenvolvimento com IA
+Resenha acadêmica sobre a palestra **“Além do código: o futuro do desenvolvimento com IA”**, apresentada durante a Tech Week XI.
 
-## Informações
-**Aluno:** Lucas Lima  
-**Disciplina:** Inteligência Artificial  
-**Atividade:** Resenha - Inteligência Artificial na Tech Week  
-**Evento:** Tech Week XI  
+## Sobre o trabalho
 
-## 📖 Sobre o trabalho
+O texto discute o uso de inteligência artificial no desenvolvimento de software e relaciona o conteúdo apresentado na palestra com temas estudados na disciplina, como:
 
-Este repositório contém uma resenha sobre o uso da Inteligência Artificial no desenvolvimento de software. O conteúdo foi baseado na palestra “Além do código”, apresentada durante a Tech Week XI.
-
-A análise aborda o impacto da IA generativa, o uso de agentes inteligentes e a relação com conceitos estudados como redes neurais, perceptron, pesos, bias e limitações como o problema do XOR.
+- IA generativa;
+- agentes inteligentes;
+- processamento de linguagem natural;
+- redes neurais;
+- Perceptron;
+- pesos e bias;
+- limitação do Perceptron em problemas como XOR.
 
 ## Conteúdo
 
-- [Resenha completa](resenha.md)
+- [Resenha completa](Resenha.md)
 
-## Tecnologias abordadas
+## Informações
 
-- Inteligência Artificial
-- IA Generativa
-- Redes Neurais
-- Agentes Inteligentes
-- Processamento de Linguagem Natural (PLN)
+- **Aluno:** Lucas Lima
+- **Disciplina:** Inteligência Artificial
+- **Atividade:** Resenha — Inteligência Artificial na Tech Week
+- **Evento:** Tech Week XI
